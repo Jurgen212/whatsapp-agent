@@ -1,0 +1,315 @@
+[6/2/2025, 6:22:40 PM] BOT: Hablame
+[6/2/2025, 6:23:46 PM] USUARIO: hola
+[6/2/2025, 6:23:46 PM] BOT: Hola beba como te va - hola
+[6/2/2025, 6:28:36 PM] USUARIO: bien kbron
+[6/2/2025, 6:28:36 PM] BOT: Hola beba como te va - bien kbron
+[6/2/2025, 6:28:45 PM] USUARIO: como va el dia
+[6/2/2025, 6:28:45 PM] BOT: Hola beba como te va - como va el dia
+[6/2/2025, 6:39:57 PM] BOT: Hableme pa
+[6/2/2025, 6:40:39 PM] USUARIO: brr
+[6/2/2025, 6:40:39 PM] BOT: Falle papito
+[6/2/2025, 6:40:44 PM] USUARIO: como q falle
+[6/2/2025, 6:40:45 PM] BOT: Falle papito
+[6/2/2025, 6:42:37 PM] BOT: 🚀 *¡Llega el BootCampING a la SanBue!* 🎓🔧🧠
+¿Estás listo para una experiencia única que combinará biomédica, electrónica y sistemas en un solo taller práctico?
+                            
+📅 Fecha: 30 de mayo 
+📍 Lugar: SanBue
+💡 Modalidad: 100% práctica
+🎯 Objetivo: ¡Explorar tecnologías de vanguardia mientras aprendes haciendo!
+                            
+Si eres estudiante o entusiasta de estas áreas, este espacio es para ti.
+
+👉 ¡Entonces no lo pienses más y únete!
+📲 ¡Inscríbete ya y vive una jornada llena de innovación y aprendizaje!
+✨ ¡Te esperamos con toda la energía!
+
+🌟 *¿Te interesa ser parte de esta aventura tecnológica y potenciar tus conocimientos?*
+                        
+[6/2/2025, 6:42:48 PM] USUARIO: que servicios me ofrece?
+[6/2/2025, 6:42:48 PM] BOT: ⚠️ Lo siento, estoy teniendo problemas para responder. Intenta más tarde.
+[6/2/2025, 6:45:12 PM] BOT: penelope
+[6/2/2025, 6:45:42 PM] USUARIO: que servicios ofrece?
+[6/2/2025, 6:45:42 PM] BOT: Decoración de eventos, alquiler de mobiliario, entre otros.
+[6/2/2025, 6:45:56 PM] USUARIO: que horario manejan?
+[6/2/2025, 6:45:56 PM] BOT: Nuestro horario es de lunes a viernes, 8 a.m. a 6 p.m.
+[6/2/2025, 6:46:13 PM] USUARIO: y donde se ubican?
+[6/2/2025, 6:46:13 PM] BOT: ⚠️ Lo siento, no tengo una respuesta para eso. Intenta con otra pregunta.
+[6/2/2025, 6:46:28 PM] USUARIO: donde se ubican?
+[6/2/2025, 6:46:28 PM] BOT: ⚠️ Lo siento, no tengo una respuesta para eso. Intenta con otra pregunta.
+[6/2/2025, 6:47:00 PM] USUARIO: donde están ubicados?
+[6/2/2025, 6:47:00 PM] BOT: Nos encontramos en la Calle 123, Bogotá.
+[6/2/2025, 7:01:00 PM] BOT: penelope
+[6/2/2025, 7:01:14 PM] USUARIO: y donde se ubican?
+[6/2/2025, 7:01:14 PM] BOT: Nos encontramos en la Calle 123, Bogotá.
+[6/2/2025, 7:01:23 PM] USUARIO: donde se ubican?
+[6/2/2025, 7:01:24 PM] BOT: Nos encontramos en la Calle 123, Bogotá.
+[6/2/2025, 7:01:34 PM] USUARIO: cual es la ubicación?
+[6/2/2025, 7:01:35 PM] BOT: Nuestro horario es de lunes a viernes, 8 a.m. a 6 p.m.
+[6/2/2025, 7:03:47 PM] BOT: listo papi, pregunte
+[6/2/2025, 7:03:58 PM] USUARIO: buenas noches
+[6/2/2025, 7:03:58 PM] BOT: Nuestro horario es de lunes a viernes, 8 a.m. a 6 p.m.
+[6/2/2025, 7:04:49 PM] USUARIO: cual es la ubicación?
+[6/2/2025, 7:04:49 PM] BOT: Nuestro horario es de lunes a viernes, 8 a.m. a 6 p.m.
+[6/2/2025, 7:05:09 PM] USUARIO: .
+[6/2/2025, 7:05:09 PM] BOT: ⚠️ Lo siento, no tengo una respuesta para eso. Intenta con otra pregunta.
+[6/2/2025, 7:05:22 PM] USUARIO: donde se ubican?
+[6/2/2025, 7:05:22 PM] BOT: Nos encontramos en la Calle 123, Bogotá.
+[6/2/2025, 7:05:32 PM] USUARIO: cual es la ubicación?
+[6/2/2025, 7:05:32 PM] BOT: Nuestro horario es de lunes a viernes, 8 a.m. a 6 p.m.
+[6/2/2025, 7:06:07 PM] USUARIO: donde se ubican?
+[6/2/2025, 7:06:08 PM] BOT: Nos encontramos en la Calle 123, Bogotá.
+[6/2/2025, 7:06:37 PM] USUARIO: horario
+[6/2/2025, 7:06:37 PM] BOT: Nuestro horario es de lunes a viernes, 8 a.m. a 6 p.m.
+[6/2/2025, 7:45:05 PM] BOT: ⚖️ ¡Bienvenido al LegalDay del Buffet Jurídico SanBue! 📚🤝
+Hola, soy tu asistente virtual 🤖 y estoy aquí para ayudarte con cualquier duda sobre nuestro evento.
+
+📅 Evento: LegalDay SanBue
+📍 Lugar: Sede principal del Buffet Jurídico – SanBue
+🕘 Fecha: 12 de junio
+🎯 Modalidad: Presencial, entrada libre
+👨‍💼 Conocerás a nuestros abogados, asistirás a charlas breves y podrás resolver inquietudes legales comunes de forma sencilla y gratuita.
+
+💬 Puedes preguntarme cosas como:
+• ¿A qué hora empieza el evento?
+• ¿Dónde queda la sede?
+• ¿Qué temas van a tratar los abogados?
+• ¿Hay que registrarse para entrar?
+• ¿Puedo llevar a un acompañante?
+• ¿Qué abogados estarán presentes?
+• ¿Cuánto cuesta una consulta después del evento?
+
+📲 ¡Escríbeme tu pregunta y te responderé al instante!
+Estoy aquí para que aproveches al máximo esta jornada informativa.
+✨ ¡Te esperamos para resolver tus dudas legales con claridad y confianza!
+                        
+[6/2/2025, 7:45:41 PM] USUARIO: que servicios me ofrece?
+[6/2/2025, 7:45:41 PM] BOT: Decoración de eventos, alquiler de mobiliario, entre otros.
+[6/2/2025, 7:45:48 PM] USUARIO: .
+[6/2/2025, 7:45:48 PM] BOT: Actualmente no tengo información sobre tu solicitud, pero estoy aquí para ayudarte. Por favor, intenta preguntar de otra manera.
+                        
+[6/2/2025, 7:45:55 PM] USUARIO: horarios?
+[6/2/2025, 7:45:55 PM] BOT: Nuestro horario es de lunes a viernes, 8 a.m. a 6 p.m.
+[6/2/2025, 7:49:38 PM] BOT: ⚖️ ¡Bienvenido al LegalDay del Buffet Jurídico SanBue! 📚🤝
+Hola, soy tu asistente virtual 🤖 y estoy aquí para ayudarte con cualquier duda sobre nuestro evento.
+
+📅 Evento: LegalDay SanBue
+📍 Lugar: Sede principal del Buffet Jurídico – SanBue
+🕘 Fecha: 12 de junio
+🎯 Modalidad: Presencial, entrada libre
+👨‍💼 Conocerás a nuestros abogados, asistirás a charlas breves y podrás resolver inquietudes legales comunes de forma sencilla y gratuita.
+
+💬 Puedes preguntarme cosas como:
+• ¿A qué hora empieza el evento?
+• ¿Dónde queda la sede?
+• ¿Qué temas van a tratar los abogados?
+• ¿Hay que registrarse para entrar?
+• ¿Puedo llevar a un acompañante?
+• ¿Qué abogados estarán presentes?
+• ¿Cuánto cuesta una consulta después del evento?
+
+📲 ¡Escríbeme tu pregunta y te responderé al instante!
+Estoy aquí para que aproveches al máximo esta jornada informativa.
+✨ ¡Te esperamos para resolver tus dudas legales con claridad y confianza!
+                        
+[6/2/2025, 7:49:59 PM] USUARIO: que servicios me ofrece?
+[6/2/2025, 7:49:59 PM] BOT: Decoración de eventos, alquiler de mobiliario, entre otros.
+[6/2/2025, 7:50:03 PM] USUARIO: .
+[6/2/2025, 7:50:03 PM] BOT: Actualmente no tengo información sobre tu solicitud, pero estoy aquí para ayudarte. Por favor, intenta preguntar de otra manera.
+                        
+[6/2/2025, 7:50:09 PM] USUARIO: horario?
+[6/2/2025, 7:50:09 PM] BOT: Nuestro horario es de lunes a viernes, 8 a.m. a 6 p.m.
+[6/2/2025, 7:50:14 PM] USUARIO: ubicación?
+[6/2/2025, 7:50:14 PM] BOT: Nos encontramos en la Calle 123, Bogotá.
+[6/2/2025, 7:50:43 PM] USUARIO: .
+[6/2/2025, 7:50:43 PM] BOT: Actualmente no tengo información sobre tu solicitud, pero estoy aquí para ayudarte. Por favor, intenta preguntar de otra manera.
+                        
+[6/2/2025, 8:13:13 PM] BOT: ⚖️ ¡Bienvenido al LegalDay del Buffet Jurídico SanBue! 📚🤝
+Hola, soy tu asistente virtual 🤖 y estoy aquí para ayudarte con cualquier duda sobre nuestro evento.
+
+📅 Evento: LegalDay SanBue
+📍 Lugar: Sede principal del Buffet Jurídico – SanBue
+🕘 Fecha: 12 de junio
+🎯 Modalidad: Presencial, entrada libre
+👨‍💼 Conocerás a nuestros abogados, asistirás a charlas breves y podrás resolver inquietudes legales comunes de forma sencilla y gratuita.
+
+💬 Puedes preguntarme cosas como:
+• ¿A qué hora empieza el evento?
+• ¿Dónde queda la sede?
+• ¿Qué temas van a tratar los abogados?
+• ¿Hay que registrarse para entrar?
+• ¿Puedo llevar a un acompañante?
+• ¿Qué abogados estarán presentes?
+• ¿Cuánto cuesta una consulta después del evento?
+
+📲 ¡Escríbeme tu pregunta y te responderé al instante!
+Estoy aquí para que aproveches al máximo esta jornada informativa.
+✨ ¡Te esperamos para resolver tus dudas legales con claridad y confianza!
+                        
+[6/2/2025, 8:14:20 PM] BOT: ⚖️ ¡Bienvenido al LegalDay del Buffet Jurídico SanBue! 📚🤝
+Hola, soy tu asistente virtual 🤖 y estoy aquí para ayudarte con cualquier duda sobre nuestro evento.
+
+📅 Evento: LegalDay SanBue
+📍 Lugar: Sede principal del Buffet Jurídico – SanBue
+🕘 Fecha: 12 de junio
+🎯 Modalidad: Presencial, entrada libre
+👨‍💼 Conocerás a nuestros abogados, asistirás a charlas breves y podrás resolver inquietudes legales comunes de forma sencilla y gratuita.
+
+💬 Puedes preguntarme cosas como:
+• ¿A qué hora empieza el evento?
+• ¿Dónde queda la sede?
+• ¿Qué temas van a tratar los abogados?
+• ¿Hay que registrarse para entrar?
+• ¿Puedo llevar a un acompañante?
+• ¿Qué abogados estarán presentes?
+• ¿Cuánto cuesta una consulta después del evento?
+
+📲 ¡Escríbeme tu pregunta y te responderé al instante!
+Estoy aquí para que aproveches al máximo esta jornada informativa.
+✨ ¡Te esperamos para resolver tus dudas legales con claridad y confianza!
+                        
+[6/2/2025, 8:15:53 PM] BOT: ⚖️ ¡Bienvenido al LegalDay del Buffet Jurídico SanBue! 📚🤝
+Hola, soy tu asistente virtual 🤖 y estoy aquí para ayudarte con cualquier duda sobre nuestro evento.
+
+📅 Evento: LegalDay SanBue
+📍 Lugar: Sede principal del Buffet Jurídico – SanBue
+🕘 Fecha: 12 de junio
+🎯 Modalidad: Presencial, entrada libre
+👨‍💼 Conocerás a nuestros abogados, asistirás a charlas breves y podrás resolver inquietudes legales comunes de forma sencilla y gratuita.
+
+💬 Puedes preguntarme cosas como:
+• ¿A qué hora empieza el evento?
+• ¿Dónde queda la sede?
+• ¿Qué temas van a tratar los abogados?
+• ¿Hay que registrarse para entrar?
+• ¿Puedo llevar a un acompañante?
+• ¿Qué abogados estarán presentes?
+• ¿Cuánto cuesta una consulta después del evento?
+
+📲 ¡Escríbeme tu pregunta y te responderé al instante!
+Estoy aquí para que aproveches al máximo esta jornada informativa.
+✨ ¡Te esperamos para resolver tus dudas legales con claridad y confianza!
+                        
+[6/2/2025, 8:17:00 PM] BOT: ⚖️ ¡Bienvenido al LegalDay del Buffet Jurídico SanBue! 📚🤝
+Hola, soy tu asistente virtual 🤖 y estoy aquí para ayudarte con cualquier duda sobre nuestro evento.
+
+📅 Evento: LegalDay SanBue
+📍 Lugar: Sede principal del Buffet Jurídico – SanBue
+🕘 Fecha: 12 de junio
+🎯 Modalidad: Presencial, entrada libre
+👨‍💼 Conocerás a nuestros abogados, asistirás a charlas breves y podrás resolver inquietudes legales comunes de forma sencilla y gratuita.
+
+💬 Puedes preguntarme cosas como:
+• ¿A qué hora empieza el evento?
+• ¿Dónde queda la sede?
+• ¿Qué temas van a tratar los abogados?
+• ¿Hay que registrarse para entrar?
+• ¿Puedo llevar a un acompañante?
+• ¿Qué abogados estarán presentes?
+• ¿Cuánto cuesta una consulta después del evento?
+
+📲 ¡Escríbeme tu pregunta y te responderé al instante!
+Estoy aquí para que aproveches al máximo esta jornada informativa.
+✨ ¡Te esperamos para resolver tus dudas legales con claridad y confianza!
+                        
+[6/2/2025, 8:25:01 PM] BOT: ⚖️ ¡Bienvenido al LegalDay del Buffet Jurídico SanBue! 📚🤝
+Hola, soy tu asistente virtual 🤖 y estoy aquí para ayudarte con cualquier duda sobre nuestro evento.
+
+📅 Evento: LegalDay SanBue
+📍 Lugar: Sede principal del Buffet Jurídico – SanBue
+🕘 Fecha: 12 de junio
+🎯 Modalidad: Presencial, entrada libre
+👨‍💼 Conocerás a nuestros abogados, asistirás a charlas breves y podrás resolver inquietudes legales comunes de forma sencilla y gratuita.
+
+💬 Puedes preguntarme cosas como:
+• ¿A qué hora empieza el evento?
+• ¿Dónde queda la sede?
+• ¿Qué temas van a tratar los abogados?
+• ¿Hay que registrarse para entrar?
+• ¿Puedo llevar a un acompañante?
+• ¿Qué abogados estarán presentes?
+• ¿Cuánto cuesta una consulta después del evento?
+
+📲 ¡Escríbeme tu pregunta y te responderé al instante!
+Estoy aquí para que aproveches al máximo esta jornada informativa.
+✨ ¡Te esperamos para resolver tus dudas legales con claridad y confianza!
+                        
+[6/2/2025, 8:25:26 PM] USUARIO: Qué servicios ofrecen?
+[6/2/2025, 8:25:26 PM] BOT: Sí, al final del evento podrás conocer más sobre nuestros servicios en San Buenaventura, Cali.
+[6/2/2025, 8:25:35 PM] USUARIO: Horario?
+[6/2/2025, 8:25:35 PM] BOT: Publicaremos la agenda con horarios y ponentes en nuestras redes sociales y página web para San Buenaventura, Cali.
+[6/2/2025, 8:25:42 PM] USUARIO: Ubicación?
+[6/2/2025, 8:25:42 PM] BOT: El evento dura aproximadamente 6 horas, de 9 a.m. a 3 p.m., en San Buenaventura, Cali.
+[6/2/2025, 8:26:12 PM] USUARIO: .
+[6/2/2025, 8:26:12 PM] BOT: Actualmente no tengo información sobre tu solicitud, pero estoy aquí para ayudarte. Por favor, intenta preguntar de otra manera.
+                        
+[6/2/2025, 8:32:16 PM] BOT: ⚖️ ¡Bienvenido al LegalDay del Buffet Jurídico SanBue! 📚🤝
+Hola, soy tu asistente virtual 🤖 y estoy aquí para ayudarte con cualquier duda sobre nuestro evento.
+
+📅 Evento: LegalDay SanBue
+📍 Lugar: Sede principal del Buffet Jurídico – SanBue
+🕘 Fecha: 12 de junio
+🎯 Modalidad: Presencial, entrada libre
+👨‍💼 Conocerás a nuestros abogados, asistirás a charlas breves y podrás resolver inquietudes legales comunes de forma sencilla y gratuita.
+
+💬 Puedes preguntarme cosas como:
+• ¿A qué hora empieza el evento?
+• ¿Dónde queda la sede?
+• ¿Qué temas van a tratar los abogados?
+• ¿Hay que registrarse para entrar?
+• ¿Puedo llevar a un acompañante?
+• ¿Qué abogados estarán presentes?
+• ¿Cuánto cuesta una consulta después del evento?
+
+📲 ¡Escríbeme tu pregunta y te responderé al instante!
+Estoy aquí para que aproveches al máximo esta jornada informativa.
+✨ ¡Te esperamos para resolver tus dudas legales con claridad y confianza!
+                        
+[6/2/2025, 8:33:31 PM] USUARIO: En q se enfocará el evento?
+[6/2/2025, 8:33:31 PM] BOT: Sí, pero respetando la privacidad y normas del evento en la Universidad San Buenaventura Cali.
+[6/2/2025, 8:34:26 PM] BOT: ⚖️ ¡Bienvenido al LegalDay del Buffet Jurídico SanBue! 📚🤝
+Hola, soy tu asistente virtual 🤖 y estoy aquí para ayudarte con cualquier duda sobre nuestro evento.
+
+📅 Evento: LegalDay SanBue
+📍 Lugar: Sede principal del Buffet Jurídico – SanBue
+🕘 Fecha: 12 de junio
+🎯 Modalidad: Presencial, entrada libre
+👨‍💼 Conocerás a nuestros abogados, asistirás a charlas breves y podrás resolver inquietudes legales comunes de forma sencilla y gratuita.
+
+💬 Puedes preguntarme cosas como:
+• ¿A qué hora empieza el evento?
+• ¿Dónde queda la sede?
+• ¿Qué temas van a tratar los abogados?
+• ¿Hay que registrarse para entrar?
+• ¿Puedo llevar a un acompañante?
+• ¿Qué abogados estarán presentes?
+• ¿Cuánto cuesta una consulta después del evento?
+
+📲 ¡Escríbeme tu pregunta y te responderé al instante!
+Estoy aquí para que aproveches al máximo esta jornada informativa.
+✨ ¡Te esperamos para resolver tus dudas legales con claridad y confianza!
+                        
+[6/2/2025, 8:34:49 PM] USUARIO: En qué se enfocará el evento?
+[6/2/2025, 8:34:49 PM] BOT: Sí, pero respetando la privacidad y normas del evento en la Universidad San Buenaventura Cali.
+[6/2/2025, 8:35:51 PM] USUARIO: Cuál es el enfoque?
+[6/2/2025, 8:35:51 PM] BOT: Brindar orientación legal gratuita y facilitar el acceso a información jurídica en Cali, sede de la Universidad San Buenaventura Cali.
+[6/2/2025, 8:36:09 PM] USUARIO: Que necesito para ingresar?
+[6/2/2025, 8:36:09 PM] BOT: No, el evento es abierto y con entrada libre en la sede de la Universidad San Buenaventura Cali.
+[6/2/2025, 8:36:20 PM] USUARIO: Lugar de la sede?
+[6/2/2025, 8:36:21 PM] BOT: La sede principal está ubicada en la Universidad San Buenaventura Cali.
+[6/2/2025, 8:36:31 PM] USUARIO: Ubicación?
+[6/2/2025, 8:36:31 PM] BOT: El evento dura aproximadamente 6 horas, de 9 a.m. a 3 p.m., en la Universidad San Buenaventura Cali.
+[6/2/2025, 8:36:50 PM] USUARIO: A qué hora empieza el evento?
+[6/2/2025, 8:36:50 PM] BOT: El evento LegalDay SanBue inicia a las 9:00 a.m. el 12 de junio en la sede de la Universidad San Buenaventura Cali.
+[6/2/2025, 8:36:58 PM] USUARIO: Dónde queda la sede?
+[6/2/2025, 8:36:58 PM] BOT: La sede principal está ubicada en la Universidad San Buenaventura Cali.
+[6/2/2025, 8:37:08 PM] USUARIO: Qué temas van a tratar los abogados?
+[6/2/2025, 8:37:08 PM] BOT: Los abogados hablarán sobre temas legales comunes, como derecho civil, laboral y familiar, en la sede de la Universidad San Buenaventura Cali.
+[6/2/2025, 8:37:20 PM] USUARIO: Hay q registrarse para entrar?
+[6/2/2025, 8:37:20 PM] BOT: No, la entrada es libre y no requiere registro previo para la sede de la Universidad San Buenaventura Cali.
+[6/2/2025, 8:37:30 PM] USUARIO: Puedo llevar un acompañante?
+[6/2/2025, 8:37:30 PM] BOT: Sí, puedes llevar acompañantes sin problema en la sede de la Universidad San Buenaventura Cali.
+[6/2/2025, 8:37:44 PM] USUARIO: Qué abogados estarán presentes?
+[6/2/2025, 8:37:45 PM] BOT: Contaremos con un equipo de aproximadamente 8 a 10 abogados expertos en distintas áreas del derecho en la Universidad San Buenaventura, Cali.
+[6/2/2025, 8:38:04 PM] USUARIO: Cuánto cuesta una consulta después del evento?
+[6/2/2025, 8:38:04 PM] BOT: Las consultas posteriores tienen tarifas variables; el evento es gratuito en la sede de la Universidad San Buenaventura Cali.

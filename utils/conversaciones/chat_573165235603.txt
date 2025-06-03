@@ -1,0 +1,74 @@
+[6/2/2025, 7:03:32 PM] BOT: listo papi, pregunte
+[6/2/2025, 7:03:59 PM] USUARIO: Donde estas ubicado?
+[6/2/2025, 7:03:59 PM] BOT: Nos encontramos en la Calle 123, Bogotá.
+[6/2/2025, 7:04:08 PM] USUARIO: Que servicio ofreces?
+[6/2/2025, 7:04:08 PM] BOT: Decoración de eventos, alquiler de mobiliario, entre otros.
+[6/2/2025, 7:04:14 PM] USUARIO: Y qué horario tienes?
+[6/2/2025, 7:04:14 PM] BOT: Nuestro horario es de lunes a viernes, 8 a.m. a 6 p.m.
+[6/2/2025, 7:04:49 PM] USUARIO: Que horario tienes?
+[6/2/2025, 7:04:49 PM] BOT: Nuestro horario es de lunes a viernes, 8 a.m. a 6 p.m.
+[6/2/2025, 7:05:16 PM] USUARIO: Como te llamas?
+[6/2/2025, 7:05:16 PM] BOT: Nos encontramos en la Calle 123, Bogotá.
+[6/2/2025, 7:05:38 PM] USUARIO: Cual es la ubicación?
+[6/2/2025, 7:05:38 PM] BOT: Nuestro horario es de lunes a viernes, 8 a.m. a 6 p.m.
+[6/2/2025, 7:05:57 PM] USUARIO: Ubicación?
+[6/2/2025, 7:05:57 PM] BOT: Nos encontramos en la Calle 123, Bogotá.
+[6/2/2025, 7:06:37 PM] USUARIO: Ubicación?
+[6/2/2025, 7:06:37 PM] BOT: Nos encontramos en la Calle 123, Bogotá.
+[6/2/2025, 7:45:20 PM] BOT: ⚖️ ¡Bienvenido al LegalDay del Buffet Jurídico SanBue! 📚🤝
+Hola, soy tu asistente virtual 🤖 y estoy aquí para ayudarte con cualquier duda sobre nuestro evento.
+
+📅 Evento: LegalDay SanBue
+📍 Lugar: Sede principal del Buffet Jurídico – SanBue
+🕘 Fecha: 12 de junio
+🎯 Modalidad: Presencial, entrada libre
+👨‍💼 Conocerás a nuestros abogados, asistirás a charlas breves y podrás resolver inquietudes legales comunes de forma sencilla y gratuita.
+
+💬 Puedes preguntarme cosas como:
+• ¿A qué hora empieza el evento?
+• ¿Dónde queda la sede?
+• ¿Qué temas van a tratar los abogados?
+• ¿Hay que registrarse para entrar?
+• ¿Puedo llevar a un acompañante?
+• ¿Qué abogados estarán presentes?
+• ¿Cuánto cuesta una consulta después del evento?
+
+📲 ¡Escríbeme tu pregunta y te responderé al instante!
+Estoy aquí para que aproveches al máximo esta jornada informativa.
+✨ ¡Te esperamos para resolver tus dudas legales con claridad y confianza!
+                        
+[6/2/2025, 7:49:53 PM] BOT: ⚖️ ¡Bienvenido al LegalDay del Buffet Jurídico SanBue! 📚🤝
+Hola, soy tu asistente virtual 🤖 y estoy aquí para ayudarte con cualquier duda sobre nuestro evento.
+
+📅 Evento: LegalDay SanBue
+📍 Lugar: Sede principal del Buffet Jurídico – SanBue
+🕘 Fecha: 12 de junio
+🎯 Modalidad: Presencial, entrada libre
+👨‍💼 Conocerás a nuestros abogados, asistirás a charlas breves y podrás resolver inquietudes legales comunes de forma sencilla y gratuita.
+
+💬 Puedes preguntarme cosas como:
+• ¿A qué hora empieza el evento?
+• ¿Dónde queda la sede?
+• ¿Qué temas van a tratar los abogados?
+• ¿Hay que registrarse para entrar?
+• ¿Puedo llevar a un acompañante?
+• ¿Qué abogados estarán presentes?
+• ¿Cuánto cuesta una consulta después del evento?
+
+📲 ¡Escríbeme tu pregunta y te responderé al instante!
+Estoy aquí para que aproveches al máximo esta jornada informativa.
+✨ ¡Te esperamos para resolver tus dudas legales con claridad y confianza!
+                        
+[6/2/2025, 7:50:12 PM] USUARIO: Ubicación?
+[6/2/2025, 7:50:12 PM] BOT: Nos encontramos en la Calle 123, Bogotá.
+[6/2/2025, 7:50:15 PM] USUARIO: Horario?
+[6/2/2025, 7:50:15 PM] BOT: Nuestro horario es de lunes a viernes, 8 a.m. a 6 p.m.
+[6/2/2025, 7:50:30 PM] USUARIO: Que servicio ofreces?
+[6/2/2025, 7:50:30 PM] BOT: Decoración de eventos, alquiler de mobiliario, entre otros.
+[6/2/2025, 7:50:33 PM] USUARIO: Te amo
+[6/2/2025, 7:50:34 PM] BOT: Nuestro horario es de lunes a viernes, 8 a.m. a 6 p.m.
+[6/2/2025, 7:50:41 PM] USUARIO: Te odio
+[6/2/2025, 7:50:41 PM] BOT: Nuestro horario es de lunes a viernes, 8 a.m. a 6 p.m.
+[6/2/2025, 7:50:43 PM] USUARIO: .
+[6/2/2025, 7:50:43 PM] BOT: Actualmente no tengo información sobre tu solicitud, pero estoy aquí para ayudarte. Por favor, intenta preguntar de otra manera.
+                        
